@@ -239,3 +239,9 @@ class PaymentService {
 const mysal = new MySQLDatabase();
 const paymentService = new PaymentService(mysal);
 paymentService.openDatabase();
+
+
+
+
+
+//https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained/
